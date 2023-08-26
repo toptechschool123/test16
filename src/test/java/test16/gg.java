@@ -8,6 +8,10 @@ public class gg {
 		
 		System.out.println("hiiiii");
 		System.out.println("hiiiii");
+		
+		
+		System.out.println("hiiiii");
+		System.out.println("hiiiii");
 
 	}
 
